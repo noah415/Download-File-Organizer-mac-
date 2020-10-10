@@ -3,4 +3,4 @@ This is a simple python script that allows you to organize any folder in your ma
 
 
 
-#Instructions for Automator Setup
+# Instructions for Automator Setup
