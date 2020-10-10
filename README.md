@@ -17,7 +17,7 @@ This is a simple python script that allows you to organize any folder in your ma
 ## Step 5
 * make sure the "Shell:" drop down is selected to "/bin/bash"
 ## Step 6
-(this is the path to the execute python command and the path to where you keep the organize.py)
+(this is the path to the execute python command and the path to where you keep the organize1.py)
 * type this in the shell --> "/usr/local/bin/python3 /your/path/to/organizer/script"
 ## Step 7
 * save the Automator Action
